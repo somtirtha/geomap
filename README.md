@@ -8,3 +8,4 @@ git clone https://github.com/somtirtha/geomap.git
 Run on a android device (minimum SDK 16).
 >References: Tech Academy google maps [tutorial].
 
+[tutorial]: <https://www.youtube.com/watch?v=NHXa96-r8TY>
